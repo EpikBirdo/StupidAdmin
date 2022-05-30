@@ -22,4 +22,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EpikBirdo/StupidAdmin
 wait (0.5)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EpikBirdo/StupidAdmin/main/13", true))()
 wait (1)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EpikBirdo/StupidAdmin/main/14", true))()
+wait (0.5)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EpikBirdo/StupidAdmin/main/musthave", true))()
